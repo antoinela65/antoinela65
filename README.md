@@ -10,6 +10,3 @@ As a passionate data enthusiast, I'm exploring the intersections of data analysi
 
 Skills: Python / SQL / Tableau / R / Excel / PowerBI
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinela65)](https://github.com/anuraghazra/github-readme-stats)
