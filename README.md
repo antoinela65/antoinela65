@@ -6,7 +6,9 @@
 
 https://www.linkedin.com/in/antoine-laverdi%C3%A8re-allaire-32760520a/
 
-As a passionate data enthusiast, I'm exploring the intersections of data analysis, business strategy and technology. My repositories here showcase my projects in data analysis, data cleaning and data visualization, reflecting on my journey mastering these skills. Let's connect and explore the world of data together!
+As a passionate data enthusiast, I'm exploring the intersections of data analysis, business strategy and technology. 
+My repositories here showcase my projects in data analysis, data cleaning and data visualization, reflecting on my journey mastering these skills. 
+Let's connect and explore the world of data together!
 
 Skills: Python / SQL / Tableau / R / Excel / PowerBI
 
