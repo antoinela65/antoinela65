@@ -11,14 +11,16 @@ As a passionate data enthusiast, I'm exploring the intersections of data analysi
 My repositories here showcase my projects in data analysis, data cleaning and data visualization, reflecting on my journey mastering these skills. 
 
 ## Featured Repositories
-- [Repo 1](https://github.com/your-username/repo1): Description of Repo 1.
-- [Repo 2](https://github.com/your-username/repo2): Description of Repo 2.
-- [Repo 3](https://github.com/your-username/repo3): Description of Repo 3.
-- [Repo 4](https://github.com/your-username/repo4): Description of Repo 4.
-- [Repo 5](https://github.com/your-username/repo5): Description of Repo 5.
-- [Repo 6](https://github.com/your-username/repo6): Description of Repo 6.
-- [Repo 7](https://github.com/your-username/repo7): Description of Repo 7.
-- [Repo 8](https://github.com/your-username/repo8): Description of Repo 8.
+
+- [R-Project-Analysis-Report](https://github.com/antoinela65/R-Project-Analysis-Report): An analysis project using R to perform data visualization and modeling.
+- [SAS-Assignment-Statistical-Inference](https://github.com/antoinela65/SAS-Assignment-Statistical-Inference): Statistical inference assignment using SAS, focusing on consumer behavior and hypothesis testing.
+- [SQL-ETL-Process-Assignment](https://github.com/antoinela65/SQL-ETL-Process-Assignment): An ETL process assignment demonstrating SQL skills for data warehousing.
+- [SQL-Exercises](https://github.com/antoinela65/SQL-Exercises): Practice repository containing SQL exercises showcasing complex queries and database manipulation.
+- [Python-Exercises](https://github.com/antoinela65/Python-Exercises): A collection of Python exercises to solve practical problems and automate tasks.
+- [Data-Cleaning-and-Exploratory-Data-Analysis---NBA-Player-Stats](https://github.com/antoinela65/Data-Cleaning-and-Exploratory-Data-Analysis---NBA-Player-Stats): An exploratory data analysis project focusing on cleaning and analyzing NBA player statistics.
+- [EDA---CO2-Emissions-of-Food-Production-between-2000-and-2020](https://github.com/antoinela65/EDA---CO2-Emissions-of-Food-Production-between-2000-and-2020): A project analyzing CO2 emissions from food production, highlighting environmental impacts.
+- [SQL-Programming-Assignment](https://github.com/antoinela65/SQL-Programming-Assignment): A programming assignment showcasing SQL skills, including advanced query writing and optimization.
+  
 
 Let's connect and explore the world of data together!
 
