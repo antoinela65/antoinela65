@@ -16,6 +16,7 @@ My repositories here showcase my projects in data analysis, data cleaning and da
 - [Data-Cleaning-and-Exploratory-Data-Analysis---NBA-Player-Stats](https://github.com/antoinela65/Data-Cleaning-and-Exploratory-Data-Analysis---NBA-Player-Stats): An exploratory data analysis project focusing on cleaning and analyzing NBA player statistics.
 - [Python-Exercises](https://github.com/antoinela65/Python-Exercises): A collection of Python exercises to solve practical problems and automate tasks.
 - [R-Project-Analysis-Report](https://github.com/antoinela65/R-Project-Analysis-Report): An analysis project using R to perform data visualization and modeling.
+- [Multivariate-R-Analysis-Assignment]() : A multivariate analysis project exploring survival analysis for pump maintenance programs and factor-based clustering for personality data using R.
 - [SQL-ETL-Process-Assignment](https://github.com/antoinela65/SQL-ETL-Process-Assignment): An ETL process assignment demonstrating SQL skills for data warehousing.
 - [SQL-Exercises](https://github.com/antoinela65/SQL-Exercises): Practice repository containing SQL exercises showcasing complex queries and database manipulation.
 - [SQL-Programming-Assignment](https://github.com/antoinela65/SQL-Programming-Assignment): A programming assignment showcasing SQL skills, including advanced query writing and optimization.
