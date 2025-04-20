@@ -21,6 +21,7 @@ My repositories here showcase my projects in data analysis, data cleaning and da
 - [SQL-Exercises](https://github.com/antoinela65/SQL-Exercises): Practice repository containing SQL exercises showcasing complex queries and database manipulation.
 - [SQL-Programming-Assignment](https://github.com/antoinela65/SQL-Programming-Assignment): A programming assignment showcasing SQL skills, including advanced query writing and optimization.
 - [SAS-Assignment-Statistical-Inference](https://github.com/antoinela65/SAS-Assignment-Statistical-Inference): Statistical inference assignment using SAS, focusing on consumer behavior and hypothesis testing.
+- [Air-Miles-Member-Segmentation](https://github.com/antoinela65/Air-Miles-Member-Segmentation): A customer segmentation project using R and clustering techniques to analyze member engagement, identify behavioral patterns, and recommend reward strategies for the Air Miles loyalty program.
   
 
 Let's connect and explore the world of data together!
