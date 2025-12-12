@@ -27,5 +27,5 @@ My repositories here showcase my projects in data analysis, data cleaning and da
 
 Let's connect and explore the world of data together!
 
-Skills: Python / SQL / Tableau / R / Excel / PowerBI
+Skills: Python / SQL / R / Power BI / Tableau / Excel
 
